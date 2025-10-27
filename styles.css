@@ -1,0 +1,169 @@
+.face
+{
+  max-width:900px;
+  margin:24px auto;
+  background: rgba(255,255,255,0.6);
+  border: 2px solid rgba(183,149,11,0.15);
+  padding:20px 24px;
+  border-radius:10px;
+}
+.bsemc
+{
+  color:#fff;
+  background-color: #b7950b;
+  text-align:center;
+  text-transform:none;
+  border-radius: 5px;
+}
+.intro
+{
+  color:black;
+  font-style:normal;
+  text-align:right;
+  text-shadow:2px 2px 5px gray;
+}
+.cat
+{
+  text-align:left;
+  margin:auto;
+  padding:10px;
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.solid
+{
+    border-style:solid;
+    border-color:#b7950b;
+    background-color: #b7950b;
+    color:white;
+}
+
+.dashed
+{
+    border-style:dashed;
+    border-color:#b7950b;
+    border-width:2px;
+    padding:8px 16px;
+}
+
+.dotted
+{
+    border-style:dotted;
+    border-color:#b7950b;
+    border-width:2px;
+}
+
+.double
+{
+    border-style:double;
+    border-color:#b7950b;
+    border-width:3px;
+}
+
+.groove
+{
+    border-style:groove;
+    border-color:#b7950b;
+    border-width:3px;
+}
+
+.ridge
+{
+    border-style:ridge;
+    border-color:#b7950b;
+    border-width:3px;
+}
+
+.inset
+{
+    border-style:inset;
+    border-color:#b7950b;
+    border-width:3px;
+}
+
+.outset
+{
+    border-style:outset;
+    border-color:#b7950b;
+    border-width:3px;
+}
+.hobbies
+{
+  text-align:center;
+  margin:24px 0;
+}
+
+.hobbies h3
+{
+  color:#b7950b;
+  margin-bottom:16px;
+}
+
+.hobby-list
+{
+  list-style:none;
+  padding:0;
+  display:inline-block;
+}
+
+.hobby-list li
+{
+  margin:8px;
+  padding:8px 16px;
+  display:inline-block;
+}
+.midterm
+{
+  text-align:center;
+  margin-top:20px;
+}
+.inspire
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width:900px;
+  margin:24px auto;
+  background: rgba(255,255,255,0.6);
+  border: 2px solid rgba(183,149,11,0.15);
+  padding:20px 24px;
+  border-radius:10px;
+}
+.gallerymain
+{
+  max-width:900px;
+  margin:24px auto;
+  background: rgba(255,255,255,0.6);
+  border: 2px solid rgba(183,149,11,0.15);
+  padding:20px 24px;
+  border-radius:10px;
+}
+
+.gallerysub
+{
+  color:#b7950b;
+  text-align:center;
+  text-transform:none;
+  margin-bottom:24px;
+}
+
+.artworks
+{
+  margin:24px 0;
+  text-align:center;
+}
+
+.artworks img,
+.artworks video
+{
+  max-width:100%;
+  height:auto;
+  border:2px solid #b7950b;
+  border-radius:5px;
+}
+
+.caption
+{
+  color:#333;
+  margin-top:8px;
+  text-align:center;
+}
